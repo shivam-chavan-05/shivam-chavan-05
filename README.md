@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-chavan-05&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-chavan-05" /> </p>
 
 
-📫 How to reach me **shivamchavan05@gmail.com**
+📫 How to reach me  **shivamchavan05@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
