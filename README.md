@@ -2,7 +2,7 @@
 ![giphy (4)](https://github.com/shivam-chavan-05/shivam-chavan-05/assets/144063863/2872cbce-582d-4c39-b9ce-8c099984de97)
 
 
-<h1 align="center">Hi 👋, I'm Shivam Chavan</h1>
+<h1 align="center">Hi 👋, I'm Shivam S. Chavan</h1>
 
 <h3 align="center">Graduate student studying Computer Science in Washington, DC</h3>
 
