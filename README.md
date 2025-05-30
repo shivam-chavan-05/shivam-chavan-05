@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivam S. Chavan</h1>
 
-<h3 align="center">Graduate student studying Computer Science in Washington, DC</h3>
+<h3 align="center">Software and Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-chavan-05&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-chavan-05" /> </p>
 
