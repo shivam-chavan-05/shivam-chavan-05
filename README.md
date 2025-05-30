@@ -40,7 +40,7 @@
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/sagemaker/" target="_blank"><img src="https://d1.awsstatic.com/Sagemaker/Diagram/SageMaker-logo.aadbb85b191b9fbb94a7391d27316d41e17c24f1.png" alt="SageMaker" width="40" height="40"/></a>
+
 
   <!-- Web Dev -->
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/></a>
@@ -61,8 +61,7 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 
   <!-- Visualization -->
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://seeklogo.com/images/P/power-bi-logo-0B5BF47BC1-seeklogo.com.png" alt="Power BI" width="40" height="40"/></a>
-  <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://lookerstudio.google.com/images/logo.svg" alt="Looker Studio" width="40" height="40"/></a>
+
 
   <!-- Tools -->
   <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
