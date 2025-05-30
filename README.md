@@ -55,6 +55,6 @@
 </p>
 
 
-<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-chavan-05&" alt="shivam-chavan-05" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-chavan-05&" alt="shivam-chavan-05" /></p>
 
 
