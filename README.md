@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p justify-content="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
@@ -70,6 +70,6 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-chavan-05&" alt="shivam-chavan-05" /></p>
+<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-chavan-05&" alt="shivam-chavan-05" /></p>
 
 
