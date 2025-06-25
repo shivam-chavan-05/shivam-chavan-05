@@ -6,7 +6,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Data+Engineer+Student)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Data+Engineer)](https://git.io/typing-svg)
   
 </div>
 
@@ -53,10 +53,10 @@ Learning:
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam-chavan-05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-chavan-05&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam-chavan-05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-chavan-05&theme=tokyonight" />
+</p>
 
 
 ## 🎓 Projects & Explorations
