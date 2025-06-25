@@ -59,7 +59,7 @@ Learning:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-chavan-05&show_icons=true&locale=en&layout=compact" alt="shivam-chavan-05" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-chavan-05&" alt="shivam-chavan-05" /></p>
 
-
+<br><br>
 ## 🎓 Projects & Explorations
 
 - 🚀 Building full-stack web applications
